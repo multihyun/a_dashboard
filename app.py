@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 
 # Title of the dashboard
 st.title('Sample Streamlit Dashboard')
+st.title('집에 재발 보내주십쇼...')
 
 # Sidebar for user input
 st.sidebar.header('User Input Parameters')
